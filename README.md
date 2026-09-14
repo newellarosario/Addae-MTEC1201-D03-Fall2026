@@ -3,7 +3,8 @@
 2 classroom hours, 2 lab hours, 3 credits
 
 **Class meetings:** In person, Mondays 2:15 PM - 5:35 PM, Voorhees Hall V-103B
-
+**Goals for the Course:**
+My goals for this class are to improve my knowledge of coding and use those skills on any creative or professional endeavors. Additionally, with my little skills in this field, I hope I am able to improve my communication abilities and be able to ask questions and help whenever I need them. 
 
 **Course site:** [Github](https://github.com/entertainmenttechnology/Addae-MTEC1201-D03-Fall2026)
 
